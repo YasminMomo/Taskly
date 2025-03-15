@@ -1,0 +1,848 @@
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\Views\AddTask.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp - Copy (2)\TasklyApp\obj\Debug\net8.0-windows\Views\AddTask.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyApp V2 - CHECKPOINT\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+C:\Users\Yasmin Momo\source\repos\TasklyAppV4\tasklyVer3\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCard.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCardOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCard.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyVer7-updated - Copy - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCardOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCard.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCard.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCardOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCardOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TasksDueToday.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1\TasklyApp\obj\Debug\net8.0-windows\Views\TasksDueToday.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.exe
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll.config
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.deps.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.runtimeconfig.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.AssemblyReference.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCard.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCard.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCardOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TasksDueToday.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\App.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp_MarkupCompile.lref
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\App.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskModal.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\AddTaskWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\SubjectSchedule.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskCardOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TaskOverview.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\TasksDueToday.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\Views\Timer.baml
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.g.resources
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfoInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.AssemblyInfo.cs
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.CoreCompileInputs.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.sourcelink.json
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.csproj.Up2Date
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\refint\TasklyApp.dll
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.pdb
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\TasklyApp.genruntimeconfig.cache
+D:\BSCS\coding\PUP-college-codes\3rd year\tasklyV10-db1 - Copy\TasklyApp\obj\Debug\net8.0-windows\ref\TasklyApp.dll

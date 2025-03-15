@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Assets\**" />
+    <EmbeddedResource Remove="Assets\**" />
+    <None Remove="Assets\**" />
+    <Page Remove="Assets\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Images\AddTask.png" />
+    <None Remove="Resources\Images\Calendar.png" />
+    <None Remove="Resources\Images\CaretDown.png" />
+    <None Remove="Resources\Images\Overview.png" />
+    <None Remove="Resources\Images\Plus.png" />
+    <None Remove="Resources\Images\Schedule.png" />
+    <None Remove="Resources\Images\Timer.png" />
+    <None Remove="Resources\Images\Today.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+    <PackageReference Include="MySql.Data" Version="9.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\AddTask.png" />
+    <Resource Include="Resources\Images\Calendar.png" />
+    <Resource Include="Resources\Images\CaretDown.png" />
+    <Resource Include="Resources\Images\Overview.png" />
+    <Resource Include="Resources\Images\Plus.png" />
+    <Resource Include="Resources\Images\Schedule.png" />
+    <Resource Include="Resources\Images\Timer.png" />
+    <Resource Include="Resources\Images\Today.png" />
+  </ItemGroup>
+
+</Project>

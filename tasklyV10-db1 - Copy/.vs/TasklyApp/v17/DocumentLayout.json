@@ -1,0 +1,974 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\taskcarditem\\taskcarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\taskcarditem\\taskcarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\taskcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\taskcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\addtaskmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\addtaskmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\taskcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\taskcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\addtaskmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\addtaskmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\taskcardoverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\taskcardoverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\taskcardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\taskcardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\addtaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\addtaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\addtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\addtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\addtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\addtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\tasksduetodayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\tasksduetodayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\tasksduetoday.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\tasksduetoday.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\tasksduetoday.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\tasksduetoday.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\views\\taskcardoverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\views\\taskcardoverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TasksDueToday.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TasksDueToday.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskOverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskOverview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCardOverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCardOverview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCard.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Sun.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\SubjectSchedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\SubjectSchedule.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Clipboard.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\CaretDown.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Calendar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskModal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskModal.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTask.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\dropdownoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\dropdownoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\taskcarditem\\taskcarditemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\taskcarditem\\taskcarditemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\subjectschedule\\subjectschedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\subjectschedule\\subjectschedulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\taskoverview\\taskoverviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\taskoverview\\taskoverviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\taskoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\taskoverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\taskoverview\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\taskoverview\\taskoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\converters\\alternatingcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\converters\\alternatingcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\models\\subjectschedule\\subjectschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\models\\subjectschedule\\subjectschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\tasklyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\tasklyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\currentdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\currentdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\viewmodels\\subjectschedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\viewmodels\\subjectschedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\obj\\Debug\\net8.0-windows\\Views\\SubjectSchedule.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TasklyApp\\obj\\Debug\\net8.0-windows\\Views\\SubjectSchedule.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xx\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|d:\\bscs\\coding\\pup-college-codes\\3rd year\\tasklyv10-db1 - copy\\tasklyapp\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{34B3AD6A-132A-4B5F-8BAD-E1D5AA09C9F1}|TasklyApp\\TasklyApp.csproj|solutionrelative:tasklyapp\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskCardViewModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TaskCardViewModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\TaskCardViewModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TaskCardViewModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\TaskCardViewModel.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAqwH0BAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:31:47.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskCard.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCard.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\TaskCard.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCard.xaml",
+              "RelativeToolTip": "TasklyApp\\Views\\TaskCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T23:13:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskCard.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCard.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\TaskCard.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCard.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\Views\\TaskCard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:13:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Services\\DatabaseService.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "TasklyApp\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAgwOEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:30:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\App.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.xaml",
+              "RelativeToolTip": "TasklyApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T07:27:52.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskCardOverview.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCardOverview.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\TaskCardOverview.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCardOverview.xaml",
+              "RelativeToolTip": "TasklyApp\\Views\\TaskCardOverview.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T23:48:33.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTaskModal.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskModal.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\AddTaskModal.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskModal.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\Views\\AddTaskModal.xaml.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAA5wLgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:36:42.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:31:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "TasklyApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:31:13.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskCardItem.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskCardItem\\TaskCardItem.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\TaskCardItem\\TaskCardItem.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskCardItem\\TaskCardItem.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\TaskCardItem\\TaskCardItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:48:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTaskModal.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskModal.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\AddTaskModal.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskModal.xaml",
+              "RelativeToolTip": "TasklyApp\\Views\\AddTaskModal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:36:34.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTaskModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\AddTaskModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\AddTaskModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\AddTaskModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\AddTaskModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:23:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddTaskWindow.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskWindow.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\AddTaskWindow.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskWindow.xaml",
+              "RelativeToolTip": "TasklyApp\\Views\\AddTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T23:34:14.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddTaskWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\AddTaskWindow.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\AddTaskWindow.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\Views\\AddTaskWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:34:20.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TasksDueToday.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TasksDueToday.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\TasksDueToday.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TasksDueToday.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\Views\\TasksDueToday.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:34:20.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TasksDueTodayViewModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TasksDueTodayViewModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\TasksDueTodayViewModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TasksDueTodayViewModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\TasksDueTodayViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwIwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:29:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasksDueToday.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TasksDueToday.xaml",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\TasksDueToday.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TasksDueToday.xaml",
+              "RelativeToolTip": "TasklyApp\\Views\\TasksDueToday.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:31:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskCardOverview.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCardOverview.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Views\\TaskCardOverview.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Views\\TaskCardOverview.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\Views\\TaskCardOverview.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:13:40.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskOverview.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskOverview.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TaskOverview.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskOverview.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TaskOverview.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:26:04.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskOverview.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskOverview.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TaskOverview.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskOverview.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TaskOverview.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:26:04.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TasksDueToday.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TasksDueToday.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TasksDueToday.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TasksDueToday.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TasksDueToday.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:26:04.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:10:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskCardOverview.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCardOverview.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TaskCardOverview.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCardOverview.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TaskCardOverview.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:26:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaskCardOverview.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCardOverview.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TaskCardOverview.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCardOverview.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TaskCardOverview.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:26:04.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TasksDueToday.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TasksDueToday.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TasksDueToday.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TasksDueToday.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TasksDueToday.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:26:04.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Timer.png",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.png",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\Timer.png",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.png",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\Timer.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-31T22:26:04.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskCard.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCard.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TaskCard.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCard.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TaskCard.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:26:03.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Timer.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\Timer.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\Timer.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:26:05.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Timer.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\Timer.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Timer.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\Timer.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:26:05.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskCard.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCard.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\TaskCard.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\TaskCard.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\TaskCard.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:26:03.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sun.png",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Sun.png",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\Sun.png",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Sun.png",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\Sun.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-31T22:26:03.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SubjectSchedule.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\SubjectSchedule.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\SubjectSchedule.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\SubjectSchedule.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\SubjectSchedule.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:25:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SubjectSchedule.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\SubjectSchedule.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\SubjectSchedule.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\SubjectSchedule.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\SubjectSchedule.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:25:58.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:25:58.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:25:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Clipboard.png",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Clipboard.png",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\Clipboard.png",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Clipboard.png",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\Clipboard.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-31T22:25:57.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CaretDown.png",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\CaretDown.png",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\CaretDown.png",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\CaretDown.png",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\CaretDown.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-31T22:25:54.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Calendar.png",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Calendar.png",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\Calendar.png",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\Calendar.png",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\Calendar.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-31T22:25:49.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddTaskWindow.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\AddTaskWindow.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskWindow.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\AddTaskWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:25:44.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddTaskWindow.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskWindow.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\AddTaskWindow.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskWindow.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\AddTaskWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:25:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddTaskModal.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskModal.xaml.cs",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\AddTaskModal.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskModal.xaml.cs",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\AddTaskModal.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T22:25:43.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddTaskModal.xaml",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskModal.xaml",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\AddTaskModal.xaml",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTaskModal.xaml",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\AddTaskModal.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T22:25:43.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddTask.png",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTask.png",
+              "RelativeDocumentMoniker": "..\\TasklyV11\\Views\\AddTask.png",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\TasklyV11\\Views\\AddTask.png",
+              "RelativeToolTip": "..\\TasklyV11\\Views\\AddTask.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-31T22:25:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.config",
+              "RelativeDocumentMoniker": "TasklyApp\\App.config",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.config",
+              "RelativeToolTip": "TasklyApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T03:58:20.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DropdownOption.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\DropdownOption.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\DropdownOption.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\DropdownOption.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\DropdownOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:19:30.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "TasklyApp\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:57:16.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\App.xaml.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.xaml.cs",
+              "RelativeToolTip": "TasklyApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:59:25.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.config",
+              "RelativeDocumentMoniker": "TasklyApp\\App.config",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\App.config",
+              "RelativeToolTip": "TasklyApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-30T18:30:04.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TaskCardItemManager.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskCardItem\\TaskCardItemManager.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\TaskCardItem\\TaskCardItemManager.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskCardItem\\TaskCardItemManager.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\TaskCardItem\\TaskCardItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:48:48.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:19:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TaskOverviewManager.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskOverview\\TaskOverviewManager.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\TaskOverview\\TaskOverviewManager.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskOverview\\TaskOverviewManager.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\TaskOverview\\TaskOverviewManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:35:09.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TaskOverviewModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TaskOverviewModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\TaskOverviewModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\TaskOverviewModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\TaskOverviewModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:51:29.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:18:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubjectScheduleManager.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\SubjectSchedule\\SubjectScheduleManager.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\SubjectSchedule\\SubjectScheduleManager.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\SubjectSchedule\\SubjectScheduleManager.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\SubjectSchedule\\SubjectScheduleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:28:30.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TaskOverview.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskOverview\\TaskOverview.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\TaskOverview\\TaskOverview.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\TaskOverview\\TaskOverview.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\TaskOverview\\TaskOverview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:32:35.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AlternatingColorConverter.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Converters\\AlternatingColorConverter.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Converters\\AlternatingColorConverter.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Converters\\AlternatingColorConverter.cs",
+              "RelativeToolTip": "TasklyApp\\Converters\\AlternatingColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:57:41.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SubjectSchedule.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\SubjectSchedule\\SubjectSchedule.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\Models\\SubjectSchedule\\SubjectSchedule.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\Models\\SubjectSchedule\\SubjectSchedule.cs",
+              "RelativeToolTip": "TasklyApp\\Models\\SubjectSchedule\\SubjectSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:15:34.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TasklyApp.csproj",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\TasklyApp.csproj",
+              "RelativeDocumentMoniker": "TasklyApp\\TasklyApp.csproj",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\TasklyApp.csproj",
+              "RelativeToolTip": "TasklyApp\\TasklyApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T07:56:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CurrentDateModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\CurrentDateModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\CurrentDateModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\CurrentDateModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\CurrentDateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "TasklyApp\\ViewModels",
+              "WhenOpened": "2025-01-24T05:07:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SubjectScheduleModel.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\SubjectScheduleModel.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\ViewModels\\SubjectScheduleModel.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\ViewModels\\SubjectScheduleModel.cs",
+              "RelativeToolTip": "TasklyApp\\ViewModels\\SubjectScheduleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:34:49.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\xx\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\xx\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:57:54.213Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SubjectSchedule.g.cs",
+              "DocumentMoniker": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\obj\\Debug\\net8.0-windows\\Views\\SubjectSchedule.g.cs",
+              "RelativeDocumentMoniker": "TasklyApp\\obj\\Debug\\net8.0-windows\\Views\\SubjectSchedule.g.cs",
+              "ToolTip": "D:\\BSCS\\coding\\PUP-college-codes\\3rd year\\tasklyV10-db1 - Copy\\TasklyApp\\obj\\Debug\\net8.0-windows\\Views\\SubjectSchedule.g.cs",
+              "RelativeToolTip": "TasklyApp\\obj\\Debug\\net8.0-windows\\Views\\SubjectSchedule.g.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:11:39.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

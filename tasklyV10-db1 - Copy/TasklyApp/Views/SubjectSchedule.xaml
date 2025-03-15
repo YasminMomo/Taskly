@@ -1,0 +1,95 @@
+﻿<UserControl x:Class="TasklyApp.Views.SubjectSchedule"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TasklyApp.Converters" 
+             xmlns:viewmodels="clr-namespace:TasklyApp.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" Height="300">
+
+    <!-- Define Resources Here -->
+    <UserControl.Resources>
+        <local:AlternatingColorConverter x:Key="AlternatingColorConverter"/>
+    </UserControl.Resources>
+
+    <!-- Set DataContext to SubjectScheduleModel -->
+    <UserControl.DataContext>
+        <viewmodels:SubjectScheduleModel/>
+    </UserControl.DataContext>
+
+    <Grid>
+        <ListBox ItemsSource="{Binding Schedules}" Background="#00FFFFFF" Margin="0" 
+             BorderBrush="Transparent" BorderThickness="0">
+            <ListBox.Template>
+                <ControlTemplate TargetType="ListBox">
+                    <Grid>
+                        <ScrollViewer x:Name="ScrollViewer" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                            <ItemsPresenter />
+                        </ScrollViewer>
+                    </Grid>
+                </ControlTemplate>
+            </ListBox.Template>
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <!-- Subject Block: Fixed width -->
+                            <ColumnDefinition Width="*"/>
+                            <!-- Time Block: More flexible width -->
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Subject Block (Fixed Width) -->
+                        <Border Width="80" Height="35" CornerRadius="16" Grid.Column="0" Margin="5">
+                            <Border.Background>
+                                <MultiBinding Converter="{StaticResource AlternatingColorConverter}">
+                                    <Binding RelativeSource="{RelativeSource AncestorType=ListBox}" Path="ItemsSource"/>
+                                    <Binding />
+                                </MultiBinding>
+                            </Border.Background>
+                            <TextBlock Text="{Binding Subject}" Foreground="White" FontSize="14" FontWeight="Bold"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Border>
+
+                        <!-- Time Block (Wider but Flexible) -->
+                        <Border Width="450" Height="35" Background="#373A3D" CornerRadius="16" Grid.Column="1" 
+                            Margin="25,0,15,0" Padding="10"
+                            HorizontalAlignment="Right">
+                            <TextBlock Text="{Binding Time}" Foreground="White" FontSize="12"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap"/>
+                        </Border>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+            <ListBox.ItemContainerStyle>
+                <Style TargetType="ListBoxItem">
+                    <!-- Set the background and border to transparent by default -->
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="BorderBrush" Value="Transparent"/>
+                    <!-- Ensure border is transparent -->
+                    <Setter Property="BorderThickness" Value="0"/>
+                    <!-- Remove border thickness -->
+
+                    <Style.Triggers>
+                        <!-- Remove the hover effect and ensure no border when hovered -->
+                        <DataTrigger Binding="{Binding IsSelected, RelativeSource={RelativeSource Self}}" Value="True">
+                            <Setter Property="Background" Value="Transparent"/>
+                            <!-- Keep background transparent when selected -->
+                        </DataTrigger>
+
+                        <!-- Remove border on mouse hover -->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="BorderBrush" Value="Transparent"/>
+                            <Setter Property="BorderThickness" Value="0"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </ListBox.ItemContainerStyle>
+
+        </ListBox>
+    </Grid>
+
+</UserControl>
